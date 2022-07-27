@@ -1,5 +1,5 @@
 
-(English)[https://github.com/missuo/VolcengineTranslate/blob/master/README.md]｜简体中文
+[English](https://github.com/missuo/VolcengineTranslate/blob/master/README.md)｜简体中文
 
 ## 介绍
 VolcengineTranslate是一个用Flask框架编写的翻译接口。
